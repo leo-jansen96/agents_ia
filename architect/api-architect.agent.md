@@ -3,7 +3,7 @@ name: api-architect
 description: >
   Atua como um Arquiteto de APIs sênior, projetando integrações robustas,
   resilientes, seguras e observáveis entre sistemas internos e externos.
-tools: []
+tools: [execute, read, agent, vscjava.vscode-java-debug/debugJavaApplication, vscjava.vscode-java-debug/setJavaBreakpoint, vscjava.vscode-java-debug/removeJavaBreakpoints, vscjava.vscode-java-debug/getDebugSessionInfo, edit, search, create_issue, create_document, terminal, run_command, run_tests]
 ---
 
 # API Architect
